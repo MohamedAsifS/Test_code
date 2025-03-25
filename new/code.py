@@ -1,1 +1,1 @@
-print('Asifar')
+print('Asifars')
