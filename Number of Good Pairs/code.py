@@ -1,5 +1,6 @@
 class Solution:
     def numIdenticalPairs(self, nums: List[int]) -> int:
+        print("Now we are online")
         
         hash={}
         res=0
